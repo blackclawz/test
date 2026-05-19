@@ -27,3 +27,7 @@ Authentication uses RSA private keys to generate short-lived JWTs, exchanged for
 - [x] Test repo created
 - [ ] Melanie token rotation configured
 - [ ] OpenClaw skill env wired up
+
+## Workflow Test
+
+This commit was made on a feature branch to test the PR-required workflow.
